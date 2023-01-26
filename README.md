@@ -33,3 +33,21 @@ As you progress through the levels, you'll unlock new technologies and tools tha
 **Animation:** Include an animation or a short video that gives a glimpse of the gameplay and the sci-fi theme, to spark interest and curiosity in the users.
 
 **Design:** The design should be consistent with the sci-fi theme and match the overall aesthetic of the platform. It should be modern, clean, and easy to use.
+
+## User Profile
+
+**Header:** The header should feature the TechTrek logo, the user's name and rank.
+
+**Background:** The background should feature a high-resolution image of a spaceship or an alien planet to immerse the user in the sci-fi theme.
+
+**User Information:** The user profile should display the user's name, email address, and rank in the game. It should also display the user's progress through the levels and the number of points they've earned.
+
+**Badges and Trophies:** A section should be dedicated to displaying the user's badges and trophies earned in the game.
+
+**Achievements:** A section should be dedicated to displaying the user's achievements, such as completion of certain challenges or reaching a certain level.
+
+**Settings:** The user should be able to edit their profile, change their password and change their notification settings.
+
+**Leaderboard:** The user should be able to view the leaderboard and see where they rank among other players.
+
+**Design:** The design should be consistent with the sci-fi theme and match the overall aesthetic of the platform. It should be modern, clean, and easy to use.
